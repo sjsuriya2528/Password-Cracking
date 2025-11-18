@@ -13,5 +13,5 @@ To crack a password hash using brute-force / dictionary attack with John the Rip
 
 ## 🧨 Commands Used
 
-zip2john Newfile.txt.zip > hash.txt
-john --format=zip hash.txt
+- zip2john Newfile.txt.zip > hash.txt
+- john --format=zip hash.txt
